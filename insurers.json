@@ -1,0 +1,95 @@
+{
+	"insurers": [
+		{
+			"id": 9,
+			"code": "hr",
+			"name": "Hero",
+			"logo": "https://melhorseguro.com.br/_next/static/media/hero-bco.e7d43c4f.png",
+			"logoSmall": "https://melhorseguro.com.br/img/hr.png"
+		},
+		{
+			"id": 12,
+			"code": "wa",
+			"name": "Welcome Assist",
+			"logo": "https://melhorseguro.com.br/_next/static/media/logo-welcome-assist-bco.d496acc2.png",
+			"logoSmall": "https://melhorseguro.com.br/img/wa.png"
+		},
+		{
+			"id": 7,
+			"code": "vc",
+			"name": "Vital Card",
+			"logo": "https://melhorseguro.com.br/_next/static/media/vital-card.2638adcd.png",
+			"logoSmall": "https://melhorseguro.com.br/img/vc.png"
+		},
+		{
+			"id": 4,
+			"code": "gta",
+			"name": "GTA",
+			"logo": "https://melhorseguro.com.br/_next/static/media/gta-logo.23e3d0bf.png",
+			"logoSmall": "https://melhorseguro.com.br/img/gta.png"
+		},
+		{
+			"id": 2,
+			"code": "ac",
+			"name": "Assist Card",
+			"logo": "https://melhorseguro.com.br/_next/static/media/assist-card-logo.8603acf7.png",
+			"logoSmall": "https://melhorseguro.com.br/img/ac.png"
+		},
+		{
+			"id": 14,
+			"code": "mta",
+			"name": "My Travel Assist ",
+			"logo": "https://melhorseguro.com.br/img/bco/mta.png",
+			"logoSmall": "https://melhorseguro.com.br/img/mta.png"
+		},
+		{
+			"id": 11,
+			"code": "ita",
+			"name": "ITA Seguro Viagem",
+			"logo": "https://melhorseguro.com.br/img/bco/ita.png",
+			"logoSmall": "https://melhorseguro.com.br/img/ita.png"
+		},
+		{
+			"id": 1,
+			"code": "co",
+			"name": "Coris",
+			"logo": "https://melhorseguro.com.br/_next/static/media/coris-logo-bco.d14f2dc0.png",
+			"logoSmall": "https://melhorseguro.com.br/img/co.png"
+		},
+		{
+			"id": 3,
+			"code": "af",
+			"name": "Affinity",
+			"logo": "https://melhorseguro.com.br/_next/static/media/logo-affinity-bco.f4931746.png",
+			"logoSmall": "https://melhorseguro.com.br/img/af.png"
+		},
+		{
+			"id": 5,
+			"code": "ua",
+			"name": "Universal Assistance",
+			"logo": "https://melhorseguro.com.br/_next/static/media/universal-assistance-logo.69f76c48.png",
+			"logoSmall": "https://melhorseguro.com.br/img/ua.png"
+		},
+		{
+			"id": 15,
+			"code": "pwa",
+			"name": "Power Assist ",
+			"logo": "https://melhorseguro.com.br/img/pwa-bco.png",
+			"logoSmall": "https://melhorseguro.com.br/img/pwa.png"
+		},
+		{
+			"id": 10,
+			"code": "int",
+			"name": "Intermac Assistance ",
+			"logo": "https://melhorseguro.com.br/img/int-bco.png",
+			"logoSmall": "https://melhorseguro.com.br/img/int.png"
+		},
+		{
+			"id": 6,
+			"code": "om",
+			"name": "Omint",
+			"logo": "https://melhorseguro.com.br/img/om-bco.png",
+			"logoSmall": "https://melhorseguro.com.br/img/om.png"
+		}
+	]
+}
